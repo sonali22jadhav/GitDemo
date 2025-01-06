@@ -9,6 +9,7 @@ public class EvenNum {
 		Scanner sc=new Scanner(System.in);
 		System.out.print("Enter the Number:");
 		int i =sc.nextInt();
+		//abc
 		if(i%2==0)
 		{
 			System.out.println("Number is even");
